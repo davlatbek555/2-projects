@@ -373,7 +373,7 @@ button {
     height: 102.269px;
     flex-shrink: 0;
 }
-@media screen and (max-width: 4.11px ) {
+@media screen and (max-width: 411px ) {
     .footer__title{
         color: #FFF;
         font-family: Roboto;
